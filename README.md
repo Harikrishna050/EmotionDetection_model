@@ -31,3 +31,9 @@ Dropout Layering: Included dropout layers to prevent overfitting by randomly dro
 
 Convolutional Neural Networks (CNN): Used multiple convolutional layers to capture spatial hierarchies in the input images.
 The model was trained for 50 epochs with a batch size of 60, using the Adam optimizer and sparse categorical crossentropy loss function.
+
+
+
+# Emotion_Detection_CNN
+
+Data Set Link - https://www.kaggle.com/jonathanoheix/face-expression-recognition-dataset
