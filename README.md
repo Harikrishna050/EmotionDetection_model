@@ -34,6 +34,6 @@ The model was trained for 50 epochs with a batch size of 60, using the Adam opti
 
 
 
-# Emotion_Detection_CNN
+
 
 Data Set Link - https://www.kaggle.com/jonathanoheix/face-expression-recognition-dataset
