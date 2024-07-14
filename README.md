@@ -15,6 +15,11 @@ Training Set: 80% (about 2320 images),
 Validation Set: 10% (about 290 images),
 Test Set: 10% (about 290 images)
 
+## Evaluation Metrics
+Training Accuracy: 0.9778
+
+Validation Accuracy: 0.8250
+
 
 ## Contributing
 
